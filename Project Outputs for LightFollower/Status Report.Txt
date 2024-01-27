@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [LightFollower.PrjPcb]
+   Generated File[LightFollower.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:59:06 PM On 1/24/2024

@@ -1,0 +1,73 @@
+Added Component: Designator=ACin(PHOE-1729128-2_V)
+Add component (AddParameter): Name = "Current Rating"; Value = "13500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16046/1729128-16046181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "12/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.phoenixcontact.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Through Hole Device, Body 8.1 x 10.16 mm, Pitch 5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1729128-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package URL"; Value = "https://www.phoenixcontact.com/online/portal/pi/pxc/product_detail_page/!ut/p/b1/3VdJjqNKFDxLH8AFycySyWY2ozFsEPOMMQaDOX1XedGL_1Vdm5YXJleknhSKeBkvI6EA8ncAo3AYoDhBQGco6KN7VURTdemj9us_IEKEZo_YHiPAEWEFmDGOHMORkqKYCORBZxgL7ZoaZYcbFFUZ3fqxSY6GOuxydWUuHqz1ynmMFygu583Bob0Ewr6Sd_l-5m-kAueHiB0jpRwZwe58wwtkpxtMYd_LmGcDRU02dRNEyWt6Y2ti5pSyJ_reIkzIulrqApdnbT11V5jnCKbYNCvhEM1MCpPByat_X379-iThf08CI5GfOPqfBeS3BRoBOdD55AKVv0iLwCMq-2BrzXWSGRH7pUGD9uwXQjiph3xL0DKQwdGa0JImiIOmBNOestqgwTHSSs2oOep-78apyXQBvNi8ZLaFjvjWvcaUEBu0MC6Wbe-d6mB0FAebo2lUWinqYaZs5DAYzV0RP9yitUjnGJ0iI9xhZkT42OCQNUJJhkgWINNQLP2JFP6OpMg3JCVg70jqHT0lvKOnhHf0lPuOnnLf0VPuWx6_dxwUIvwk5WMkT0kLL1mh61l2yZVSzG3pYV_bqo-mj6uMKwKwdnnW8Jh5RTOJzMOA5c-eJDaZQw4mTMPH02PvS_ZAqNVjVTo2WyYLkwH_KU1mmmG5kjRhDqPXLwwVHvVOjCM60-fpXvTDfMGW1PVFVS1r4e4yVDk4ZdNbkUHvqPqQSeian4UD39fNKmachqdJ1NJbyk8rXT9mXTvPk3oE5meulKGgiruPJek-4I9hTT6G8ZLOyRSm2RRVbThERQad5OS28hdt4YW4vG0stgYYzsWsK4_7y6DZMjJSCqri1kyiZR5vD7pwIrNR7QwPHTcLTI5qT7eRlpHrdGiupYlqQDJ7zy_CND8fWWBoLRXxk1RVcXiBQwbTD4Xi7KL-FuO94t9xaqweXzH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Version"; Value = "03/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1729128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400V"; VariantName = "[No Variations]"
+Added Component: Designator=Battery(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C1(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vac Pin=ACin-1
+Added Pin To Net: NetName=GND Pin=ACin-2
+Added Pin To Net: NetName=Vbat Pin=Battery-1
+Added Pin To Net: NetName=GND Pin=Battery-2
+Added Pin To Net: NetName=NetACorBatt_2 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=Vdd Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=Vdd Pin=C3-2
+Added Pin To Net: NetName=NetACorBatt_2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=Sheet1 Member=Component ACin 1729128
+Added Member To Class: ClassName=Sheet1 Member=Component Battery Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C2 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C3 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component C4 Cap

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=HC-SR04-2-1
+Removed Pin From Net: NetName=VCC Pin=HC-SR04-2-4
+Added Pin To Net: NetName=VCC Pin=HC-SR04-2-1
+Added Pin To Net: NetName=GND Pin=HC-SR04-2-4

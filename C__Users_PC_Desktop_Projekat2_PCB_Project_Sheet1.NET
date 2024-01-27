@@ -1,0 +1,25 @@
+PARTS LIST
+
+Capacitor                         4
+1729128           PHOE-1729128-2_VACin
+Header 3          HDR1X3          ACorBatt
+Header 2          HDR1X2          Battery
+Capacitor                         C1
+Capacitor                         C2
+Capacitor                         C3
+DSPIC30F4013-20E/PPDIP40_600MC_MCHdsPIC30
+LM7805CT          FAIR-TO-220-3   U1
+EOS
+NET LIST
+
+NODENAME Vdd              $
+    4          1  C1         2  dsPIC30   11  U1         3
+NODENAME Vbat             $
+    ACorBatt   3  Battery    1
+NODENAME Vac              $
+    ACin       1  ACorBatt   1
+NODENAME NetACorBatt-2    $
+    ACorBatt   2  C2         1  C3         1  U1         1
+NODENAME GND              $
+    4          2  ACin       2  Battery    2  C1         1  C2         2  C3         2  dsPIC30   12  dsPIC30   20  U1         2
+EOS
