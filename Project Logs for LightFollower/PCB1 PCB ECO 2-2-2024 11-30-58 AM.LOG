@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=RF0 Pin=Driver-5
+Removed Pin From Net: NetName=RD2 Pin=Driver-6
+Removed Pin From Net: NetName=RF1 Pin=Driver-7
+Removed Pin From Net: NetName=RF6 Pin=Driver-10
+Removed Pin From Net: NetName=RD1 Pin=Driver-11
+Removed Pin From Net: NetName=RF3 Pin=Driver-12
+Added Pin To Net: NetName=RB9 Pin=Driver-5
+Added Pin To Net: NetName=RF1 Pin=Driver-6
+Added Pin To Net: NetName=RB10 Pin=Driver-7
+Added Pin To Net: NetName=RB12 Pin=Driver-10
+Added Pin To Net: NetName=RF0 Pin=Driver-11
+Added Pin To Net: NetName=RB11 Pin=Driver-12

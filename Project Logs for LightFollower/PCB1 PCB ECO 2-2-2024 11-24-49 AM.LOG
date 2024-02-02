@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=RF5 Pin=BT-1
+Removed Pin From Net: NetName=RB9 Pin=Driver-5
+Removed Pin From Net: NetName=RF1 Pin=Driver-6
+Removed Pin From Net: NetName=RB10 Pin=Driver-7
+Removed Pin From Net: NetName=RB12 Pin=Driver-10
+Removed Pin From Net: NetName=RF0 Pin=Driver-11
+Removed Pin From Net: NetName=RB11 Pin=Driver-12
+Removed Pin From Net: NetName=RF4 Pin=dsPIC30-28
+Removed Pin From Net: NetName=RF5 Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=U1A-1
+Removed Pin From Net: NetName=RC14 Pin=U1A-3
+Removed Pin From Net: NetName=GND Pin=U1RT-1
+Removed Pin From Net: NetName=RF3 Pin=U1RT-2
+Removed Pin From Net: NetName=RF2 Pin=U1RT-3
+Removed Pin From Net: NetName=Vdd Pin=U1RT-4
+Removed Pin From Net: NetName=GND Pin=U2RT-1
+Removed Pin From Net: NetName=RF5 Pin=U2RT-2
+Removed Pin From Net: NetName=RF4 Pin=U2RT-3
+Added Pin To Net: NetName=RF0 Pin=Driver-5
+Added Pin To Net: NetName=RD2 Pin=Driver-6
+Added Pin To Net: NetName=RF1 Pin=Driver-7
+Added Pin To Net: NetName=RF6 Pin=Driver-10
+Added Pin To Net: NetName=RD1 Pin=Driver-11
+Added Pin To Net: NetName=RF3 Pin=Driver-12
+Added Pin To Net: NetName=RC14 Pin=U1A-1
+Added Pin To Net: NetName=GND Pin=U1A-3
+Added Pin To Net: NetName=Vdd Pin=U1RT-1
+Added Pin To Net: NetName=GND Pin=U1RT-2
+Added Pin To Net: NetName=RF3 Pin=U1RT-3
+Added Pin To Net: NetName=RF2 Pin=U1RT-4
+Added Pin To Net: NetName=GND Pin=U2RT-3
+Change Net Name : Old Net Name=RF4 New Net Name=NetBT_2
+Added Pin To Net: NetName=RF4 Pin=dsPIC30-28
+Added Net: Name=RF4
+Added Pin To Net: NetName=U2RX Pin=BT-1
+Added Pin To Net: NetName=U2RX Pin=U2RT-1
+Added Net: Name=U2RX
+Added Pin To Net: NetName=U2TX Pin=R9-1
+Added Pin To Net: NetName=U2TX Pin=U2RT-2
+Added Net: Name=U2TX
+Added Member To Class: ClassName=Sheet1 Member=Component Photo Sens 1 Header 2

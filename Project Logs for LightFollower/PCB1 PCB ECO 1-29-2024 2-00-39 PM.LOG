@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-C1206C-EB-MFG New Footprint=FP-C1206C-EB-IPC_B
+Added Member To Class: ClassName=Sheet1 Member=Component dsPIC30 DSPIC30F4013-20E/P
