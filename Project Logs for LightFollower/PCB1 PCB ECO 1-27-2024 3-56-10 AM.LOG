@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=VCC Pin=HC-SR04-2-1
-Removed Pin From Net: NetName=GND Pin=HC-SR04-2-4
-Change Component Footprint: Designator=JL Old Footprint=691214110002 New Footprint=691214110002
-Change Component Footprint: Designator=JR Old Footprint=691214110002 New Footprint=691214110002
-Added Pin To Net: NetName=GND Pin=HC-SR04-2-1
-Added Pin To Net: NetName=VCC Pin=HC-SR04-2-4
