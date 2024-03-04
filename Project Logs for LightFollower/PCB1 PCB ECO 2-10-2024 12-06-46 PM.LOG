@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=SW?-2
-Added Pin To Net: NetName=MCLR Pin=SW?-2
-Added Pin To Net: NetName=GND Pin=SW?-3
-Added Pin To Net: NetName=GND Pin=SW?-4
