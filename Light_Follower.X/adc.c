@@ -14,8 +14,16 @@
 void ConfigureADCPins(void)
 {
     /// Pin for sharp sensor
-    ADPCFGbits.PCFG1=0;     // analog pin  
-    TRISBbits.TRISB1=1;     // input pin
+    ADPCFGbits.PCFG0=0;     // analog pin
+    ADPCFGbits.PCFG1=0;     
+    ADPCFGbits.PCFG2=0;     
+    ADPCFGbits.PCFG3=0;     
+
+    TRISBbits.TRISB0=1;     // input pin
+    TRISBbits.TRISB1=1;     
+    TRISBbits.TRISB2=1;     
+    TRISBbits.TRISB3=1;     
+    
 }   
 
 
