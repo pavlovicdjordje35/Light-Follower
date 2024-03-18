@@ -243,7 +243,7 @@ static void Calc(void){
             max = PR[i];
             max_pos = i;
         }
-
+    }
         switch (max_pos) {
             case 0:
                 if ((PR[3] - PR[1]) > 0) {
@@ -288,7 +288,7 @@ static void Calc(void){
         }
     DutyCyclePWM1(duty_cycle_entered1);
     DutyCyclePWM2(duty_cycle_entered2);
-    }
+    
 
 
 
