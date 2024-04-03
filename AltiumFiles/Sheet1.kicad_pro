@@ -251,7 +251,7 @@
         "track_width": 0.2,
         "via_diameter": 0.6,
         "via_drill": 0.3,
-        "wire_width": 6
+        "wire_width": 10
       }
     ],
     "meta": {
@@ -375,7 +375,7 @@
   },
   "sheets": [
     [
-      "46cec0d7-cc5a-4b3b-96bd-95dfe8399d5b",
+      "c74db5aa-fdc6-4bca-927c-9bd0bceeded0",
       ""
     ]
   ],
