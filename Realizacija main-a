@@ -1,0 +1,10 @@
+Realizacija main-a
+
+U main funkciji smo prvo izvrsili inicijalizaciju pinova i pocetnih vrednosti.
+
+Sledeci korak je funkcija koja iscekuje rec "START" sa BT-a preko UART2 nakon cega program ulazi u while petlju koja iscekuje "STOP" sa BT za zaustavljanje robota. U while pelji se vrsi proracun kretanja.
+
+Prvo se vrsi funkcija Clac(); koja iscitava vrednosti AD konverzije i odredjuje kretanje na osnovu najvise osvetljenog fotootpornika. U zavisnosti od osvetljenosti, robot ide napred levo desno ili se okrece za 180 stepeni. Nakon proracuna, salje se signal za aktivaciju HC ultrazvucnih senzora za merenje udaljenosti objekata i u zavisnosti od vremena putovanja zvucnog signala se odredjuje udaljenost objekta. Ako dobijemo informaciju na osnovu vremena prostiranja talasa da je prepreka na manje od 15cm, znamo da postoji prepreka. Ako postoji prepreka ispred nas i sa desne strane, robot skrece na levu stranu. Ako postoji napred a ne sa desne strane, robot skrece na desno. A ako ne postoji napred, kod se izvrsava ne ometano i prati proracun Calc() funkcije. 
+
+Calc()
+
